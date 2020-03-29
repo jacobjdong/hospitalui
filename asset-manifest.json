@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/hospitalUI/static/css/main.80ea0dcd.chunk.css",
+    "main.js": "/hospitalUI/static/js/main.7de2fbf9.chunk.js",
+    "main.js.map": "/hospitalUI/static/js/main.7de2fbf9.chunk.js.map",
+    "runtime-main.js": "/hospitalUI/static/js/runtime-main.463973e1.js",
+    "runtime-main.js.map": "/hospitalUI/static/js/runtime-main.463973e1.js.map",
+    "static/js/2.538e604f.chunk.js": "/hospitalUI/static/js/2.538e604f.chunk.js",
+    "static/js/2.538e604f.chunk.js.map": "/hospitalUI/static/js/2.538e604f.chunk.js.map",
+    "index.html": "/hospitalUI/index.html",
+    "precache-manifest.46ef8dea7bdb45dc973626fc242a2a53.js": "/hospitalUI/precache-manifest.46ef8dea7bdb45dc973626fc242a2a53.js",
+    "service-worker.js": "/hospitalUI/service-worker.js",
+    "static/css/main.80ea0dcd.chunk.css.map": "/hospitalUI/static/css/main.80ea0dcd.chunk.css.map",
+    "static/js/2.538e604f.chunk.js.LICENSE.txt": "/hospitalUI/static/js/2.538e604f.chunk.js.LICENSE.txt",
+    "static/media/Entypo.ttf": "/hospitalUI/static/media/Entypo.744ce600.ttf",
+    "static/media/EvilIcons.ttf": "/hospitalUI/static/media/EvilIcons.140c53a7.ttf",
+    "static/media/Feather.ttf": "/hospitalUI/static/media/Feather.ca9ce9ff.ttf",
+    "static/media/FontAwesome.ttf": "/hospitalUI/static/media/FontAwesome.b06871f2.ttf",
+    "static/media/Ionicons.ttf": "/hospitalUI/static/media/Ionicons.b2e0fc82.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/hospitalUI/static/media/MaterialCommunityIcons.6acc7d6c.ttf",
+    "static/media/MaterialIcons.ttf": "/hospitalUI/static/media/MaterialIcons.a37b0c01.ttf",
+    "static/media/Octicons.ttf": "/hospitalUI/static/media/Octicons.8e7f807e.ttf",
+    "static/media/SimpleLineIcons.ttf": "/hospitalUI/static/media/SimpleLineIcons.d2285965.ttf",
+    "static/media/logo.png": "/hospitalUI/static/media/logo.1d794ee6.png",
+    "static/media/logo1.png": "/hospitalUI/static/media/logo1.1d794ee6.png",
+    "static/media/style.css": "/hospitalUI/static/media/roboto-regular.11eabca2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.463973e1.js",
+    "static/js/2.538e604f.chunk.js",
+    "static/css/main.80ea0dcd.chunk.css",
+    "static/js/main.7de2fbf9.chunk.js"
+  ]
+}
